@@ -1,0 +1,26 @@
+/*!
+ * Sidebar MENU v1.0.0 
+ *
+ * Created by @Julio Alcantara 
+ * Licensed under MIT
+ */
+
+ $btn-color: #0a5275;
+ $primary-sidebar-background-color: #1e1e1e;
+ $secondary-sidebar-background-color: #1b1b1b;
+ $background-secondary-color: #063146;
+
+ * {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+ body {
+    font-family: 'Roboto', sans-serif;
+ }
+
+ @import "components/sidebar";
+ 
+
+ @import url('https://fonts.googleapis.com/css?family=Montserrat');
