@@ -9,7 +9,7 @@ Just a personal test on how to use prepos 6 and Visual Studio code.
 ![Image of sidebarmenu](src/media/responsive.gif)
 
 ------------------------------
-Usefull Documentayion Links for this project
+Usefull Documentation Links for this project
 ------------------------------
 
 Prepos:
